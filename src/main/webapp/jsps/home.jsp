@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>KK FUNDA Home Page</title>
+<title>KK FUNDA Home Page begin</title>
 <link href="images/kkfunda.jpg" rel="icon">
 </head>
 </head>
